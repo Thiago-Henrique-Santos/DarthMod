@@ -1,7 +1,6 @@
 # DarthMod
 
-[Read documentation in english](#english-documentation)
-[Leia a documentação em português](#documentacao-em-portugues)
+[Read documentation in english](#english-documentation) • [Leia a documentação em português](#documentacao-em-portugues)
 
 ## English Documentation
 
